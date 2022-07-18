@@ -20,3 +20,6 @@ opposite direction (conservation of impulse)
 
 
 Here's the link to the video recording of my game: https://youtu.be/LoHQYJpVKYc
+
+***
+![](bin/img.png)
